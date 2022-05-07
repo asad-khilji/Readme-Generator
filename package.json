@@ -1,0 +1,17 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Generate Readme File",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Asad",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
